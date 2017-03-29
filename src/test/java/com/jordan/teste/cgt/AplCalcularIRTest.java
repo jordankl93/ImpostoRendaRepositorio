@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.jordan.cgt;
+package com.jordan.teste.cgt;
 
+import com.jordan.cgt.AplCalcularIR;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
